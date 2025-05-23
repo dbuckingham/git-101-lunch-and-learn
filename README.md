@@ -43,3 +43,23 @@ Build & Release Tooling
 - Use Branches
 - Agree on a workflow
 
+## What is Git?
+
+## Git != GitHub
+
+## Git vs Git Clients
+
+Git is a command line tool.
+
+Git Clients
+- IDEs: Visual Studio, VS Code, Rider, Java-IDE-of-the-day
+- Git Fork
+- Git Kraken
+- SourceTree
+- GitHub Desktop
+
+## Homework
+- Install Git http://git-scm.com
+- Install Visual Studio Code https://visualstudio.microsoft.com/#vscode-section
+- Create GitHub account
+
